@@ -10,3 +10,5 @@ hellow
 
 sss
 aaa
+
+System.out(hello);
